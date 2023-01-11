@@ -21,7 +21,7 @@ public class Ejemplo06 {
             if (a == 0) {
                 return b;
             } else {
-                return 1 + obtenerSuma(a, b - 1);
+                return 1 + obtenerSuma(a, b -1);
             }
         }
     }
